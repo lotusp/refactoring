@@ -1,4 +1,4 @@
-package java.com.lotusp.refactoring;
+package com.lotusp.refactoring;
 
 public class RefactoringApp {
 

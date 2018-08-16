@@ -16,4 +16,5 @@ public class VehiclePriceService {
         String[] prices = optionalOptionPrices.split(",");
         return Arrays.asList(prices).stream().mapToDouble(Double::valueOf).sum();
     }
+
 }
