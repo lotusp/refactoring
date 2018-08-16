@@ -1,4 +1,15 @@
 .gradle/
-.idea/
-gradle/
 out/
+**/*.idea/
+build/
+classes/
+**/*.log
+*-local.properties
+*-local.yml
+**~
+.DS_Store
+**/.DS_Store
+.local
+*.ipr
+*.iml
+*.iws
